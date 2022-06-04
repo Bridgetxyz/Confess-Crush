@@ -12,6 +12,6 @@ const CONFIG = {
     reply: 'bởi vì cậu xinh vailoz ra hahah',
     mess: 'Mình biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
     messDesc: 'hay khummm',
-    btnAccept: 'cóooooooo',
+    btnAccept: 'cóoooooo',
     messLink: ' https://www.facebook.com/messages/t/100059038294532 //link mess của các bạn. VD: https://www.facebook.com/messages/t/100014188333536
 }
